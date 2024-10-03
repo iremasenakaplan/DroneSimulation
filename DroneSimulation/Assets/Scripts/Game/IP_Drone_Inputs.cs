@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-namespace InputCore
+namespace DroneCore
 {
     [RequireComponent(typeof(PlayerInput))]
     public class IP_Drone_Inputs : MonoBehaviour
